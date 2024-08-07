@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Create by 🌸 SR カラス 🌸","Mew Bot"];
+const statusMessages = ["Create by 🌸 SR カラス 🌸","Create by 🌸 SR カラス 🌸"];
 
 
 let currentIndex = 0;
